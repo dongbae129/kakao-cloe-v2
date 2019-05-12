@@ -15,7 +15,7 @@
   cursor: pointer;
 }
 
-.header .header_header-column {
+.header .header__header-column {
   display: flex;
   align-items: center;
 }
